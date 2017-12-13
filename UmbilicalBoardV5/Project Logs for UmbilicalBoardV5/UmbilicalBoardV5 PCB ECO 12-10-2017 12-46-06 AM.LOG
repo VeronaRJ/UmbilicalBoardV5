@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=mux1 Pin=PC-?-H2_1
+Added Pin To Net: NetName=Docking1 Pin=FC-5
+Added Pin To Net: NetName=Docking2 Pin=FC-6
+Added Pin To Net: NetName=24V_SAH_enable2 Pin=FC-27
+Added Pin To Net: NetName=24V_SAH_enable2 Pin=PC-?-H1_30
+Added Net: Name=24V_SAH_enable2
+Added Room: Name=AdapterBoard

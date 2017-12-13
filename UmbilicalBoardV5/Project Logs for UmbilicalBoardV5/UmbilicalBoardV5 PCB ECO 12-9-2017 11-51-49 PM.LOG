@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=DGND Pin=C?-1
+Added Pin To Net: NetName=DGND Pin=Docking_Right-2
+Added Pin To Net: NetName=DGND Pin=Docking_Right-8
+Added Pin To Net: NetName=DGND Pin=PressSense-4
+Added Room: Name=AdapterBoard

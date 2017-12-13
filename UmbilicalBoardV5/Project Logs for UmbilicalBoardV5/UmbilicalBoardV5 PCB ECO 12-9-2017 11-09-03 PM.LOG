@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=24V Pin=ADCS-1
+Removed Pin From Net: NetName=GND Pin=Docking-4
+Added Component: Designator=C?(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Docking_Left(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Docking_Right(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=24V_2 Pin=C?-2
+Added Pin To Net: NetName=5V_BattChargeIn Pin=Docking_Left-5
+Added Pin To Net: NetName=5V_BattChargeIn Pin=Docking_Left-6
+Added Pin To Net: NetName=24V_2 Pin=Docking_Right-1
+Added Pin To Net: NetName=GND Pin=Docking_Right-2
+Added Pin To Net: NetName=GND Pin=Docking_Right-8
+Added Pin To Net: NetName=3.3_ADCS Pin=ADCS-1
+Added Net: Name=3.3_ADCS
+Added Pin To Net: NetName=Motor1 Pin=Docking-1
+Added Pin To Net: NetName=Motor1 Pin=Docking_Right-3
+Added Net: Name=Motor1
+Added Pin To Net: NetName=Motor2 Pin=Docking-2
+Added Pin To Net: NetName=Motor2 Pin=Docking_Right-4
+Added Net: Name=Motor2
+Added Pin To Net: NetName=Motor3 Pin=Docking-3
+Added Pin To Net: NetName=Motor3 Pin=Docking_Right-5
+Added Net: Name=Motor3
+Added Pin To Net: NetName=Motor4 Pin=Docking-4
+Added Pin To Net: NetName=Motor4 Pin=Docking_Right-6
+Added Net: Name=Motor4
+Added Member To Class: ClassName=AdapterBoard Member=Component C? 100uF
+Added Member To Class: ClassName=AdapterBoard Member=Component Docking_Left Docking DRV8825 Header
+Added Member To Class: ClassName=AdapterBoard Member=Component Docking_Right Docking DRV8825 Header

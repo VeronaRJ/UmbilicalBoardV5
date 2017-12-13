@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V_BattChargeIn Pin=Docking_Left-5
+Removed Pin From Net: NetName=5V_BattChargeIn Pin=Docking_Left-6
+Removed Pin From Net: NetName=DockingFW Pin=PC-?-H1_23
+Removed Pin From Net: NetName=Docking_BW Pin=PC-?-H1_25
+Added Pin To Net: NetName=Docking_en Pin=Docking_Left-5
+Added Pin To Net: NetName=Docking_en Pin=Docking_Left-6
+Change Net Name : Old Net Name=Linkstar_RX New Net Name=Quake_RX
+Change Net Name : Old Net Name=Linkstar_TX New Net Name=Quake_TX
+Added Pin To Net: NetName=Docking1 Pin=Docking_Left-7
+Added Pin To Net: NetName=Docking1 Pin=PC-?-H1_23
+Added Net: Name=Docking1
+Added Pin To Net: NetName=Docking2 Pin=Docking_Left-8
+Added Pin To Net: NetName=Docking2 Pin=PC-?-H1_25
+Added Net: Name=Docking2
